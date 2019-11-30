@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FreeCRM smoke testing suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Login and Home page tests(failed)">
+    <classes>
+      <class name="com.qa.testcases.HomePageTest">
+        <methods>
+          <include name="validateHomePageTitle"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Login and Home page tests(failed) -->
+</suite> <!-- Failed suite [FreeCRM smoke testing suite] -->

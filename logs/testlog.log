@@ -1,0 +1,5 @@
+2019-11-24 11:02:41,806 - com.qa.baseclass.BaseClass -INFO - ****************************** Starting test cases execution   *****************************************
+2019-11-24 11:02:41,808 - com.qa.baseclass.BaseClass -INFO - ****************************** freeCrmContactsFormTitle*****************************************
+2019-11-24 11:02:42,231 - com.qa.baseclass.BaseClass -INFO - ****************************** ending test case *****************************************
+2019-11-24 11:02:42,231 - com.qa.baseclass.BaseClass -INFO - ****************************** freeCrmFormTitle *****************************************
+2019-11-24 11:02:42,235 - com.qa.baseclass.BaseClass -INFO - Browser closed

@@ -1,0 +1,463 @@
+2019-08-22 15:46:42,608 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:46:42,669 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:46:42,670 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:46:42,677 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-22 15:46:42,681 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-22 15:46:42,683 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:46:42,684 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:46:42,688 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:46:51,601 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:47:01,156 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:47:01,157 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-22 15:47:01,190 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-22 15:47:01,190 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:47:01,191 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-22 15:47:01,194 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:47:11,516 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:47:27,947 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-22 15:47:27,948 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle*****************************************
+2019-08-22 15:47:28,344 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:47:28,345 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-22 15:47:28,347 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-22 15:47:37,910 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:47:37,939 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:47:37,940 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:47:37,990 [main] INFO com.qa.baseclass.BaseClass - Validating Image --> true
+2019-08-22 15:47:37,991 [main] WARN com.qa.baseclass.BaseClass - Asserted : image
+2019-08-22 15:47:37,991 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:47:37,991 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:47:37,994 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:49:34,121 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:49:34,186 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:49:34,186 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:49:34,198 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-22 15:49:34,202 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-22 15:49:34,203 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:49:34,204 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:49:34,209 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:49:43,193 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:49:49,663 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:49:49,664 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-22 15:49:49,672 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-22 15:49:49,673 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:49:49,673 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-22 15:49:49,675 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:49:59,424 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:50:07,682 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-22 15:50:07,683 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle*****************************************
+2019-08-22 15:50:08,937 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:50:08,938 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-22 15:50:08,940 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-22 15:50:18,380 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:50:18,399 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:50:18,400 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:50:18,451 [main] INFO com.qa.baseclass.BaseClass - Validating Image --> true
+2019-08-22 15:50:18,451 [main] WARN com.qa.baseclass.BaseClass - Asserted : image
+2019-08-22 15:50:18,452 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:50:18,452 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:50:18,453 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:56:18,886 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:56:18,976 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:56:18,977 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:56:18,995 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-22 15:56:18,999 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-22 15:56:19,000 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:56:19,001 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-22 15:56:19,005 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:56:28,205 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:56:36,227 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:56:36,228 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-22 15:56:36,235 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-22 15:56:36,236 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:56:36,236 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-22 15:56:36,238 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-22 15:56:45,419 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:56:54,442 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-22 15:56:54,443 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-08-22 15:56:54,871 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:56:54,872 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-22 15:56:54,874 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-22 15:57:04,162 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-22 15:57:04,183 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-22 15:57:04,183 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:57:04,230 [main] INFO com.qa.baseclass.BaseClass - Validating Image --> true
+2019-08-22 15:57:04,230 [main] WARN com.qa.baseclass.BaseClass - Asserted : image
+2019-08-22 15:57:04,231 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-22 15:57:04,231 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-22 15:57:04,233 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 19:17:02,948 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:17:13,763 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-23 19:26:38,881 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:26:45,096 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-23 19:26:45,096 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-08-23 19:26:45,248 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:26:45,249 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-23 19:26:45,250 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-23 19:26:52,801 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:26:57,462 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 19:26:57,463 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-23 19:26:57,469 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-23 19:26:57,469 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:26:57,469 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-23 19:26:57,470 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 19:27:05,204 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:27:05,218 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 19:27:05,219 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 19:27:05,224 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-23 19:27:05,225 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-23 19:27:05,225 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:27:05,225 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 19:27:05,226 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 19:27:07,003 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-23 19:27:13,749 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:27:19,811 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-23 19:27:19,811 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-23 19:27:19,811 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-23 19:27:22,358 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : RameshLast Name : BiradarSocialMedia : FacebookCountry : IndiaDay : 10.0Month : 10.0Year :1987.0
+2019-08-23 19:27:22,358 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:27:22,359 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-23 19:27:22,359 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-23 19:27:29,927 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:27:36,160 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-23 19:27:36,161 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-23 19:27:36,161 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-23 19:27:38,791 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : AmbikaLast Name : SulepethSocialMedia : TwitterCountry : United KingdomDay : 10.0Month : 10.0Year :1987.0
+2019-08-23 19:27:38,791 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:27:38,792 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-23 19:27:38,792 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-23 19:27:46,277 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 19:27:52,463 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-23 19:27:52,463 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-23 19:27:52,464 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-23 19:27:55,363 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : SureshLast Name : kattimaniSocialMedia : LinkedInCountry : AfghanistanDay : 10.0Month : 10.0Year :1987.0
+2019-08-23 19:27:55,364 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 19:27:55,364 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-23 19:27:55,364 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-23 21:46:50,259 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:47:19,068 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:47:49,853 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:47:49,873 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 21:47:49,873 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 21:47:49,881 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-23 21:47:49,881 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-23 21:47:49,881 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 21:47:49,881 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 21:47:49,885 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 21:47:51,770 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-23 21:49:09,381 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:49:38,267 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:49:58,523 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 21:49:58,523 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-23 21:49:58,533 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-23 21:49:58,533 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 21:49:58,533 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-23 21:49:58,533 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 21:50:09,361 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 21:50:09,387 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 21:50:09,387 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 21:50:09,395 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-23 21:50:09,395 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-23 21:50:09,395 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 21:50:09,395 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 21:50:09,399 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 21:50:11,080 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-23 22:06:38,950 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 22:06:38,997 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 22:06:38,997 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 22:06:39,005 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> #1 Free CRM software for any business - FreeCRM.com
+2019-08-23 22:06:39,009 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [#1 Free CRM software for any business - FreeCRM.com]
+2019-08-23 22:06:39,009 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 22:06:39,009 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-23 22:06:39,009 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-23 22:06:48,995 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 22:07:18,343 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 22:07:47,653 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-23 22:07:47,666 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-23 22:07:47,666 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-23 22:07:47,701 [main] INFO com.qa.baseclass.BaseClass - Validating Image --> true
+2019-08-23 22:07:47,701 [main] WARN com.qa.baseclass.BaseClass - Asserted : image
+2019-08-23 22:07:47,701 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-23 22:07:47,701 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-23 22:07:47,701 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 10:54:44,979 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:54:45,036 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 10:54:45,037 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 10:54:45,051 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 10:54:45,054 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [CRM]
+2019-08-26 10:54:45,055 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 10:54:45,056 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 10:54:45,059 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 10:55:03,785 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:55:29,250 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:55:49,974 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:55:49,993 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 10:55:49,994 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-26 10:56:00,374 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 10:57:04,389 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:57:04,435 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 10:57:04,436 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 10:57:04,449 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 10:57:04,453 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [CRM]
+2019-08-26 10:57:04,453 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 10:57:04,454 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 10:57:04,455 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 10:57:18,559 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 10:57:42,698 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:00:09,972 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:00:10,023 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:00:10,023 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:00:10,030 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 11:00:10,033 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [CRM]
+2019-08-26 11:00:10,034 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:00:10,035 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:00:10,041 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:00:20,491 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:00:20,865 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:00:20,866 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-26 11:00:20,872 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-26 11:00:20,873 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:00:20,873 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-26 11:00:20,874 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:00:40,101 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:00:41,736 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:00:41,736 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-08-26 11:00:41,941 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:00:41,941 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-26 11:00:41,942 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:00:53,245 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:00:53,258 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:00:53,259 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-26 11:01:03,673 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:03:16,289 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:03:16,330 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:03:16,330 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:03:16,336 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 11:03:16,338 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [CRM]
+2019-08-26 11:03:16,338 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:03:16,339 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:03:16,341 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:03:26,547 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:03:26,559 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:03:26,560 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmImageTest *****************************************
+2019-08-26 11:03:36,956 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:03:47,431 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:03:47,452 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:03:47,452 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLoginTest *****************************************
+2019-08-26 11:03:47,453 [main] INFO com.qa.baseclass.BaseClass - Entering UserName --> rp.biradar87@gmail.com
+2019-08-26 11:03:47,454 [main] INFO com.qa.baseclass.BaseClass - Entering Password --> Ram@8095131187
+2019-08-26 11:03:47,454 [main] INFO com.qa.baseclass.BaseClass - Click on login
+2019-08-26 11:03:47,764 [main] INFO com.qa.baseclass.BaseClass - Return homepage object --> com.qa.pages.HomePage@5942ee04
+2019-08-26 11:03:47,765 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:03:47,765 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLoginTest *****************************************
+2019-08-26 11:03:47,766 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:05:34,025 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:05:34,064 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:05:34,065 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:05:34,073 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 11:05:34,075 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.co] but found [CRM]
+2019-08-26 11:05:34,075 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:05:34,076 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:05:34,078 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:05:44,168 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:05:44,182 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:05:44,183 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLoginTest *****************************************
+2019-08-26 11:05:44,183 [main] INFO com.qa.baseclass.BaseClass - Entering UserName --> rp.biradar87@gmail.com
+2019-08-26 11:05:44,184 [main] INFO com.qa.baseclass.BaseClass - Entering Password --> Ram@8095131187
+2019-08-26 11:05:44,184 [main] INFO com.qa.baseclass.BaseClass - Click on login
+2019-08-26 11:05:44,537 [main] INFO com.qa.baseclass.BaseClass - Return homepage object --> com.qa.pages.HomePage@503fbbc6
+2019-08-26 11:05:44,537 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:05:44,538 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLoginTest *****************************************
+2019-08-26 11:05:44,540 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:06:27,308 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:06:27,787 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:06:27,787 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-26 11:06:27,796 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-26 11:06:27,797 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:06:27,798 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-26 11:06:27,800 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:06:39,466 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:06:39,796 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:06:39,796 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin UserName *****************************************
+2019-08-26 11:06:39,796 [main] INFO com.qa.baseclass.BaseClass - Validating login user name :
+2019-08-26 11:06:40,528 [main] INFO com.qa.baseclass.BaseClass - Validated login user name and accessed:
+2019-08-26 11:06:40,528 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:06:40,528 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin UserName  *****************************************
+2019-08-26 11:06:40,530 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:06:51,142 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:06:51,476 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:06:51,477 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin Logo *****************************************
+2019-08-26 11:06:52,192 [main] INFO com.qa.baseclass.BaseClass - Home page icon showing as expected 
+2019-08-26 11:06:52,192 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:06:52,193 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrm image *****************************************
+2019-08-26 11:06:52,194 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:07:05,392 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:07:05,692 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:07:05,692 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmSetting Icon *****************************************
+2019-08-26 11:07:06,406 [main] INFO com.qa.baseclass.BaseClass - Displayed setting icon in correct place
+2019-08-26 11:07:06,407 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:07:06,407 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmSetting Icon *****************************************
+2019-08-26 11:07:06,408 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:09:43,996 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:09:44,362 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:09:44,363 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-26 11:09:44,369 [main] INFO com.qa.baseclass.BaseClass - validating Home Page title : CRM
+2019-08-26 11:09:44,376 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-26 11:09:44,377 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:09:44,377 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-26 11:09:44,379 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:09:54,689 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:09:55,025 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:09:55,025 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin UserName *****************************************
+2019-08-26 11:09:55,727 [main] INFO com.qa.baseclass.BaseClass - Validating login user name :ramesh Biradar
+2019-08-26 11:09:55,746 [main] INFO com.qa.baseclass.BaseClass - Validated login user name and accessed:
+2019-08-26 11:09:55,747 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:09:55,747 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin UserName  *****************************************
+2019-08-26 11:09:55,749 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:10:05,812 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:10:06,140 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:10:06,140 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmLogin Logo *****************************************
+2019-08-26 11:10:06,845 [main] INFO com.qa.baseclass.BaseClass - Home page icon showing as expected 
+2019-08-26 11:10:06,845 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:10:06,846 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrm image *****************************************
+2019-08-26 11:10:06,848 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:10:16,949 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:10:17,255 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:10:17,256 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmSetting Icon *****************************************
+2019-08-26 11:10:17,968 [main] INFO com.qa.baseclass.BaseClass - Displayed setting icon in correct place
+2019-08-26 11:10:17,969 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:10:17,969 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmSetting Icon *****************************************
+2019-08-26 11:10:17,970 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:13:01,064 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:13:02,683 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:13:02,684 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-08-26 11:13:02,894 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:13:02,895 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-26 11:13:02,897 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:13:04,875 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-26 11:13:13,280 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:13:14,679 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:13:14,679 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:13:14,680 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:13:17,281 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : RameshLast Name : BiradarSocialMedia : FacebookCountry : IndiaDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:13:17,281 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:13:17,282 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:13:17,285 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:13:27,228 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:13:28,414 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:13:28,414 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:13:28,415 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:13:32,114 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : AmbikaLast Name : SulepethSocialMedia : TwitterCountry : United KingdomDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:13:32,114 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:13:32,115 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:13:32,117 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:13:41,867 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:13:44,336 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:13:44,337 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:13:44,337 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:13:46,943 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : SureshLast Name : kattimaniSocialMedia : LinkedInCountry : AfghanistanDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:13:46,944 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:13:46,944 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:13:46,945 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:21:05,924 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:21:07,615 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:21:07,616 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-08-26 11:21:07,809 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:21:07,810 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-08-26 11:21:07,811 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:21:30,335 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:21:30,960 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:21:30,961 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-08-26 11:21:30,968 [main] INFO com.qa.baseclass.BaseClass - validating Home Page title : CRM
+2019-08-26 11:21:30,973 [main] INFO com.qa.baseclass.BaseClass - validated Home Page title as expected
+2019-08-26 11:21:30,974 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:21:30,974 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest  *****************************************
+2019-08-26 11:21:30,975 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:21:41,556 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:21:41,569 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-08-26 11:21:41,570 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:21:41,576 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> CRM
+2019-08-26 11:21:41,577 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [#1 Free CRM software for any business - FreeCRM.com] but found [CRM]
+2019-08-26 11:21:41,577 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:21:41,577 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-08-26 11:21:41,578 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-08-26 11:21:43,596 [main] INFO com.qa.baseclass.BaseClass - Read data from Excel file
+2019-08-26 11:22:07,233 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:22:08,833 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:22:08,834 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:22:08,834 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:22:11,593 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : RameshLast Name : BiradarSocialMedia : FacebookCountry : IndiaDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:22:11,593 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:22:11,594 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:22:11,595 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:22:28,054 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:22:29,741 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:22:29,742 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:22:29,742 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:22:32,471 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : AmbikaLast Name : SulepethSocialMedia : TwitterCountry : United KingdomDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:22:32,471 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:22:32,471 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:22:32,472 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-08-26 11:22:43,131 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-08-26 11:22:44,703 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-08-26 11:22:44,704 [main] INFO com.qa.baseclass.BaseClass - ****************************** Create New Contact*****************************************
+2019-08-26 11:22:44,704 [main] INFO com.qa.baseclass.BaseClass - Creating new contact
+2019-08-26 11:22:47,453 [main] INFO com.qa.baseclass.BaseClass - Creating new contact --> FirstName : SureshLast Name : kattimaniSocialMedia : LinkedInCountry : AfghanistanDay : 10.0Month : 10.0Year :1987.0
+2019-08-26 11:22:47,453 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-08-26 11:22:47,453 [main] INFO com.qa.baseclass.BaseClass - ****************************** End creating New Contact*****************************************
+2019-08-26 11:22:47,454 [main] INFO com.qa.baseclass.BaseClass - Browser closed
+2019-09-18 12:26:15,031 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 12:32:21,559 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 12:33:30,365 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 12:35:31,380 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 12:37:00,808 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 14:52:05,391 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 14:55:23,717 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 14:57:15,141 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 14:58:53,040 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:01:33,950 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:03:07,803 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:23:38,439 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:24:24,053 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:26:36,347 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:52:00,312 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:53:16,632 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:55:59,668 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 15:56:44,744 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:37:14,549 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:39:13,034 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:42:29,206 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:43:09,802 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:44:21,568 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:44:55,171 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:47:59,242 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:49:53,414 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:50:35,169 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:53:49,609 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 16:54:43,488 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:15:11,490 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:17:18,457 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:18:58,757 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:20:30,255 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:22:48,256 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:24:18,717 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:25:01,576 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-09-18 17:25:57,903 [main] INFO com.qa.baseclass.BaseClass - Initialized with config parameter 
+2019-11-24 11:02:00,702 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-11-24 11:02:00,812 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-11-24 11:02:00,816 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-11-24 11:02:00,840 [main] INFO com.qa.baseclass.BaseClass - Validating page Title --> Cogmento CRM
+2019-11-24 11:02:00,848 [main] ERROR com.qa.baseclass.BaseClass - java.lang.AssertionError: expected [CRM] but found [Cogmento CRM]
+2019-11-24 11:02:00,848 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-11-24 11:02:00,848 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmTitleTest *****************************************
+2019-11-24 11:02:00,860 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-11-24 11:02:25,736 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-11-24 11:02:26,538 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution  *****************************************
+2019-11-24 11:02:26,538 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmHomepagetitleTest *****************************************
+2019-11-24 11:02:26,550 [main] INFO com.qa.baseclass.BaseClass - validating Home Page title : Cogmento CRM
+2019-11-24 11:02:27,178 [main] INFO com.qa.baseclass.BaseClass - Quit the browser
+2019-11-24 11:02:38,632 [main] INFO com.qa.baseclass.BaseClass - Lauching Chrome Browser
+2019-11-24 11:02:41,806 [main] INFO com.qa.baseclass.BaseClass - ****************************** Starting test cases execution   *****************************************
+2019-11-24 11:02:41,808 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmContactsFormTitle*****************************************
+2019-11-24 11:02:42,231 [main] INFO com.qa.baseclass.BaseClass - ****************************** ending test case *****************************************
+2019-11-24 11:02:42,231 [main] INFO com.qa.baseclass.BaseClass - ****************************** freeCrmFormTitle *****************************************
+2019-11-24 11:02:42,235 [main] INFO com.qa.baseclass.BaseClass - Browser closed
